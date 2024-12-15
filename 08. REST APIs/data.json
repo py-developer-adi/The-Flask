@@ -1,0 +1,82 @@
+[
+    {
+        "Python": [
+            {
+                "Role": "Backend Development",
+                "AverageSalary": "$100,000/year",
+                "PopularFrameworks": ["Django", "Flask", "FastAPI"]
+            },
+            {
+                "Role": "Data Science",
+                "AverageSalary": "$120,000/year",
+                "PopularLibraries": ["Pandas", "NumPy", "Scikit-learn"]
+            },
+            {
+                "Role": "Web Scraping",
+                "AverageSalary": "$80,000/year",
+                "PopularTools": ["BeautifulSoup", "Scrapy"]
+            }
+        ]
+    },
+    {
+        "JavaScript": [
+            {
+                "Role": "Frontend Development",
+                "AverageSalary": "$90,000/year",
+                "PopularFrameworks": ["React", "Vue", "Angular"]
+            },
+            {
+                "Role": "Full Stack Development",
+                "AverageSalary": "$110,000/year",
+                "PopularFrameworks": ["Node.js", "Express"]
+            },
+            {
+                "Role": "Mobile App Development",
+                "AverageSalary": "$95,000/year",
+                "PopularFrameworks": ["React Native", "Ionic"]
+            }
+        ]
+    },
+    {
+        "Java": [
+            {
+                "Role": "Backend Development",
+                "AverageSalary": "$105,000/year",
+                "PopularFrameworks": ["Spring Boot", "Hibernate"]
+            },
+            {
+                "Role": "Android Development",
+                "AverageSalary": "$100,000/year",
+                "PopularTools": ["Android Studio", "Kotlin Integration"]
+            }
+        ]
+    },
+    {
+        "C++": [
+            {
+                "Role": "Game Development",
+                "AverageSalary": "$95,000/year",
+                "PopularEngines": ["Unreal Engine", "CryEngine"]
+            },
+            {
+                "Role": "System Programming",
+                "AverageSalary": "$110,000/year",
+                "Applications": ["Operating Systems", "Drivers"]
+            }
+        ]
+    },
+    {
+        "Go": [
+            {
+                "Role": "Cloud Development",
+                "AverageSalary": "$115,000/year",
+                "PopularTools": ["Docker", "Kubernetes"]
+            },
+            {
+                "Role": "Web Development",
+                "AverageSalary": "$105,000/year",
+                "PopularFrameworks": ["Gin", "Echo"]
+            }
+        ]
+    }
+]
