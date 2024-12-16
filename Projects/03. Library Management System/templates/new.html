@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ doc.title }}{% endblock title %}</title>
+</head>
+<body>
+    <form action="/new" method="post">
+        <label for="title">Title</label>
+        <input type="text" id="title" name="title" placeholder="Enter book Title">
+
+        <label for="author">Author</label>
+        <input type="text" id="author" name="author" placeholder="Enter book Author">
+
+        <button type="submit">Add</button>
+    </form>
+</body>
+</html>
